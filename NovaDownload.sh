@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ZIP_URL="https://github.com/OutlawedDev/NovaUI/releases/download/1.0.0/NovaUI.app.zip"
+ZIP_URL="https://github.com/OutlawedDev/NovaUI12/releases/download/1.0.0/NovaUI.app.zip"
 TMP_ZIP="/tmp/NovaUI.app.zip"
 UNZIP_DIR="/tmp/novaui_unzip"
 APP_NAME="NovaUI.app"
